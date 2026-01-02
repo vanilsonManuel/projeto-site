@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 16px;
+}
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #837bc1;
+    }       
+
+main {
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
+    }
+
+
